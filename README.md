@@ -2,7 +2,7 @@
 
 <h2 align="center">🚀 Men Bahodir Nabijanov - Full Stack Developer</h2>
 
-<h3 align="center">NestJS | NodeJS | Telegraf | MongoDB | PostgreSQL </h3>
+<h3 align="center">NestJS | NodeJS | React | Telegraf | MongoDB | PostgreSQL </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=1000&color=F78C6C&center=true&vCenter=true&width=435&lines=Salom%2C+men+Bahodir!;Full+Stack+Dasturchiman;NestJS+%7C+Telegraf+%7C+MongoDB;Telegram+botlar+bo%E2%80%98yicha+mutaxassis" alt="Typing SVG" />
