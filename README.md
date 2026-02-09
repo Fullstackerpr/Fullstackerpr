@@ -12,5 +12,7 @@
   <img src="https://img.shields.io/badge/Telegram_Bot_Expert-%2300aced?style=for-the-badge&logo=telegram&logoColor=white"/>
   <img src="https://img.shields.io/badge/Backend-NestJS-red?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="35" height="35"/>
+  <img src="https://img.shields.io/badge/Tool-Docker-blue?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react&logoColor=white"/>
 </p>
